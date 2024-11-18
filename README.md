@@ -10,3 +10,7 @@ We are able to:
 
 
 With finetuning, we’re able to take our own data to train the model on it, and update the weights of the neural nets in the LLM, changing the model compared to other methods like prompt engineering and Retrieval Augmented Generation. Finetuning allows the model to learn style, form, and can update the model with new knowledge to improve results.
+
+Who should join?
+
+Learners who want to understand the techniques and applications of finetuning, with Python familiarity, and an understanding of a deep learning framework such as PyTorch.
